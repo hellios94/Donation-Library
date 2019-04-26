@@ -4338,6 +4338,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
+          "FoodLover.Model": "1.0.0",
           "Microsoft.AspNetCore": "2.1.1",
           "Microsoft.EntityFrameworkCore": "2.1.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.1.1"
@@ -4347,6 +4348,16 @@
         },
         "runtime": {
           "bin/placeholder/FoodLover.Data.dll": {}
+        }
+      },
+      "FoodLover.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/FoodLover.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FoodLover.Model.dll": {}
         }
       }
     }
@@ -11805,6 +11816,11 @@
       "type": "project",
       "path": "../FoodLover.Data/FoodLover.Data.csproj",
       "msbuildProject": "../FoodLover.Data/FoodLover.Data.csproj"
+    },
+    "FoodLover.Model/1.0.0": {
+      "type": "project",
+      "path": "../FoodLover.Model/FoodLover.Model.csproj",
+      "msbuildProject": "../FoodLover.Model/FoodLover.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {

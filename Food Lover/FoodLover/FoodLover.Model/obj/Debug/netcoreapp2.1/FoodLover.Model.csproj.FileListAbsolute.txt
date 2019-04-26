@@ -1,0 +1,9 @@
+D:\.Net Developement\Food Lover\FoodLover\FoodLover.Model\bin\Debug\netcoreapp2.1\FoodLover.Model.deps.json
+D:\.Net Developement\Food Lover\FoodLover\FoodLover.Model\bin\Debug\netcoreapp2.1\FoodLover.Model.dll
+D:\.Net Developement\Food Lover\FoodLover\FoodLover.Model\bin\Debug\netcoreapp2.1\FoodLover.Model.pdb
+D:\.Net Developement\Food Lover\FoodLover\FoodLover.Model\obj\Debug\netcoreapp2.1\FoodLover.Model.csprojAssemblyReference.cache
+D:\.Net Developement\Food Lover\FoodLover\FoodLover.Model\obj\Debug\netcoreapp2.1\FoodLover.Model.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Food Lover\FoodLover\FoodLover.Model\obj\Debug\netcoreapp2.1\FoodLover.Model.AssemblyInfoInputs.cache
+D:\.Net Developement\Food Lover\FoodLover\FoodLover.Model\obj\Debug\netcoreapp2.1\FoodLover.Model.AssemblyInfo.cs
+D:\.Net Developement\Food Lover\FoodLover\FoodLover.Model\obj\Debug\netcoreapp2.1\FoodLover.Model.dll
+D:\.Net Developement\Food Lover\FoodLover\FoodLover.Model\obj\Debug\netcoreapp2.1\FoodLover.Model.pdb

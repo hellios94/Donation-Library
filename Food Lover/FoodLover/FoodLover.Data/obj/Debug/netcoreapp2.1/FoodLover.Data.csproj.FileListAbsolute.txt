@@ -4,3 +4,9 @@ D:\.Net Developement\Food Lover\FoodLover\FoodLover.Data\obj\Debug\netcoreapp2.1
 D:\.Net Developement\Food Lover\FoodLover\FoodLover.Data\obj\Debug\netcoreapp2.1\FoodLover.Data.csproj.CoreCompileInputs.cache
 D:\.Net Developement\Food Lover\FoodLover\FoodLover.Data\obj\Debug\netcoreapp2.1\FoodLover.Data.AssemblyInfoInputs.cache
 D:\.Net Developement\Food Lover\FoodLover\FoodLover.Data\obj\Debug\netcoreapp2.1\FoodLover.Data.AssemblyInfo.cs
+D:\.Net Developement\Food Lover\FoodLover\FoodLover.Data\bin\Debug\netcoreapp2.1\FoodLover.Data.pdb
+D:\.Net Developement\Food Lover\FoodLover\FoodLover.Data\bin\Debug\netcoreapp2.1\FoodLover.Model.dll
+D:\.Net Developement\Food Lover\FoodLover\FoodLover.Data\bin\Debug\netcoreapp2.1\FoodLover.Model.pdb
+D:\.Net Developement\Food Lover\FoodLover\FoodLover.Data\obj\Debug\netcoreapp2.1\FoodLover.Data.csproj.CopyComplete
+D:\.Net Developement\Food Lover\FoodLover\FoodLover.Data\obj\Debug\netcoreapp2.1\FoodLover.Data.dll
+D:\.Net Developement\Food Lover\FoodLover\FoodLover.Data\obj\Debug\netcoreapp2.1\FoodLover.Data.pdb
