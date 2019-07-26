@@ -1,0 +1,10 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\02. Recursive Factorial\bin\Debug\netcoreapp2.2\02. Recursive Factorial.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\02. Recursive Factorial\bin\Debug\netcoreapp2.2\02. Recursive Factorial.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\02. Recursive Factorial\bin\Debug\netcoreapp2.2\02. Recursive Factorial.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\02. Recursive Factorial\bin\Debug\netcoreapp2.2\02. Recursive Factorial.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\02. Recursive Factorial\bin\Debug\netcoreapp2.2\02. Recursive Factorial.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\02. Recursive Factorial\obj\Debug\netcoreapp2.2\02. Recursive Factorial.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\02. Recursive Factorial\obj\Debug\netcoreapp2.2\02. Recursive Factorial.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\02. Recursive Factorial\obj\Debug\netcoreapp2.2\02. Recursive Factorial.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\02. Recursive Factorial\obj\Debug\netcoreapp2.2\02. Recursive Factorial.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\02. Recursive Factorial\obj\Debug\netcoreapp2.2\02. Recursive Factorial.pdb

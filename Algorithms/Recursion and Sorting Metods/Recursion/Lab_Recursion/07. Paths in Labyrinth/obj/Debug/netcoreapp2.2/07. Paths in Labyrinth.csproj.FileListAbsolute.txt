@@ -1,0 +1,11 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\07. Paths in Labyrinth\bin\Debug\netcoreapp2.2\07. Paths in Labyrinth.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\07. Paths in Labyrinth\bin\Debug\netcoreapp2.2\07. Paths in Labyrinth.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\07. Paths in Labyrinth\bin\Debug\netcoreapp2.2\07. Paths in Labyrinth.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\07. Paths in Labyrinth\bin\Debug\netcoreapp2.2\07. Paths in Labyrinth.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\07. Paths in Labyrinth\bin\Debug\netcoreapp2.2\07. Paths in Labyrinth.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\07. Paths in Labyrinth\obj\Debug\netcoreapp2.2\07. Paths in Labyrinth.csprojAssemblyReference.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\07. Paths in Labyrinth\obj\Debug\netcoreapp2.2\07. Paths in Labyrinth.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\07. Paths in Labyrinth\obj\Debug\netcoreapp2.2\07. Paths in Labyrinth.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\07. Paths in Labyrinth\obj\Debug\netcoreapp2.2\07. Paths in Labyrinth.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\07. Paths in Labyrinth\obj\Debug\netcoreapp2.2\07. Paths in Labyrinth.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\07. Paths in Labyrinth\obj\Debug\netcoreapp2.2\07. Paths in Labyrinth.pdb

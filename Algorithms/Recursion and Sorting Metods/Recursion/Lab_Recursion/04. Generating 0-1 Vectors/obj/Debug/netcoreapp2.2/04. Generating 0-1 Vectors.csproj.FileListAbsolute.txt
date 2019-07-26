@@ -1,0 +1,11 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\04. Generating 0-1 Vectors\bin\Debug\netcoreapp2.2\04. Generating 0-1 Vectors.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\04. Generating 0-1 Vectors\bin\Debug\netcoreapp2.2\04. Generating 0-1 Vectors.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\04. Generating 0-1 Vectors\bin\Debug\netcoreapp2.2\04. Generating 0-1 Vectors.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\04. Generating 0-1 Vectors\bin\Debug\netcoreapp2.2\04. Generating 0-1 Vectors.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\04. Generating 0-1 Vectors\bin\Debug\netcoreapp2.2\04. Generating 0-1 Vectors.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\04. Generating 0-1 Vectors\obj\Debug\netcoreapp2.2\04. Generating 0-1 Vectors.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\04. Generating 0-1 Vectors\obj\Debug\netcoreapp2.2\04. Generating 0-1 Vectors.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\04. Generating 0-1 Vectors\obj\Debug\netcoreapp2.2\04. Generating 0-1 Vectors.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\04. Generating 0-1 Vectors\obj\Debug\netcoreapp2.2\04. Generating 0-1 Vectors.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\04. Generating 0-1 Vectors\obj\Debug\netcoreapp2.2\04. Generating 0-1 Vectors.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\04. Generating 0-1 Vectors\obj\Debug\netcoreapp2.2\04. Generating 0-1 Vectors.csprojAssemblyReference.cache

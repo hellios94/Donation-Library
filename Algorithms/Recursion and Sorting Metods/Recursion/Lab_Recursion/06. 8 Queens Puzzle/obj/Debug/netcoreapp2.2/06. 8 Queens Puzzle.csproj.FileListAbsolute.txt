@@ -1,0 +1,11 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\06. 8 Queens Puzzle\bin\Debug\netcoreapp2.2\06. 8 Queens Puzzle.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\06. 8 Queens Puzzle\bin\Debug\netcoreapp2.2\06. 8 Queens Puzzle.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\06. 8 Queens Puzzle\bin\Debug\netcoreapp2.2\06. 8 Queens Puzzle.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\06. 8 Queens Puzzle\bin\Debug\netcoreapp2.2\06. 8 Queens Puzzle.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\06. 8 Queens Puzzle\bin\Debug\netcoreapp2.2\06. 8 Queens Puzzle.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\06. 8 Queens Puzzle\obj\Debug\netcoreapp2.2\06. 8 Queens Puzzle.csprojAssemblyReference.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\06. 8 Queens Puzzle\obj\Debug\netcoreapp2.2\06. 8 Queens Puzzle.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\06. 8 Queens Puzzle\obj\Debug\netcoreapp2.2\06. 8 Queens Puzzle.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\06. 8 Queens Puzzle\obj\Debug\netcoreapp2.2\06. 8 Queens Puzzle.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\06. 8 Queens Puzzle\obj\Debug\netcoreapp2.2\06. 8 Queens Puzzle.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\06. 8 Queens Puzzle\obj\Debug\netcoreapp2.2\06. 8 Queens Puzzle.pdb

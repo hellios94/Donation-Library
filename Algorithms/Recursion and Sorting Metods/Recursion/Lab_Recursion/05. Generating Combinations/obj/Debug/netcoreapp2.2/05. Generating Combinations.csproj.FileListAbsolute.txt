@@ -1,0 +1,10 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\05. Generating Combinations\bin\Debug\netcoreapp2.2\05. Generating Combinations.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\05. Generating Combinations\bin\Debug\netcoreapp2.2\05. Generating Combinations.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\05. Generating Combinations\bin\Debug\netcoreapp2.2\05. Generating Combinations.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\05. Generating Combinations\bin\Debug\netcoreapp2.2\05. Generating Combinations.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\05. Generating Combinations\bin\Debug\netcoreapp2.2\05. Generating Combinations.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\05. Generating Combinations\obj\Debug\netcoreapp2.2\05. Generating Combinations.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\05. Generating Combinations\obj\Debug\netcoreapp2.2\05. Generating Combinations.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\05. Generating Combinations\obj\Debug\netcoreapp2.2\05. Generating Combinations.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\05. Generating Combinations\obj\Debug\netcoreapp2.2\05. Generating Combinations.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\05. Generating Combinations\obj\Debug\netcoreapp2.2\05. Generating Combinations.pdb

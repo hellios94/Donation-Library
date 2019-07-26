@@ -1,0 +1,11 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\03. Recursive Drawing\bin\Debug\netcoreapp2.2\03. Recursive Drawing.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\03. Recursive Drawing\bin\Debug\netcoreapp2.2\03. Recursive Drawing.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\03. Recursive Drawing\bin\Debug\netcoreapp2.2\03. Recursive Drawing.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\03. Recursive Drawing\bin\Debug\netcoreapp2.2\03. Recursive Drawing.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\03. Recursive Drawing\bin\Debug\netcoreapp2.2\03. Recursive Drawing.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\03. Recursive Drawing\obj\Debug\netcoreapp2.2\03. Recursive Drawing.csprojAssemblyReference.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\03. Recursive Drawing\obj\Debug\netcoreapp2.2\03. Recursive Drawing.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\03. Recursive Drawing\obj\Debug\netcoreapp2.2\03. Recursive Drawing.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\03. Recursive Drawing\obj\Debug\netcoreapp2.2\03. Recursive Drawing.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\03. Recursive Drawing\obj\Debug\netcoreapp2.2\03. Recursive Drawing.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\03. Recursive Drawing\obj\Debug\netcoreapp2.2\03. Recursive Drawing.pdb

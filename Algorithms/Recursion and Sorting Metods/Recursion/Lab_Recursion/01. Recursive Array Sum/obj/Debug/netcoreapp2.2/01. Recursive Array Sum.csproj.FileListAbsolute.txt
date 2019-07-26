@@ -1,0 +1,10 @@
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\01. Recursive Array Sum\bin\Debug\netcoreapp2.2\01. Recursive Array Sum.deps.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\01. Recursive Array Sum\bin\Debug\netcoreapp2.2\01. Recursive Array Sum.runtimeconfig.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\01. Recursive Array Sum\bin\Debug\netcoreapp2.2\01. Recursive Array Sum.runtimeconfig.dev.json
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\01. Recursive Array Sum\bin\Debug\netcoreapp2.2\01. Recursive Array Sum.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\01. Recursive Array Sum\bin\Debug\netcoreapp2.2\01. Recursive Array Sum.pdb
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\01. Recursive Array Sum\obj\Debug\netcoreapp2.2\01. Recursive Array Sum.csproj.CoreCompileInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\01. Recursive Array Sum\obj\Debug\netcoreapp2.2\01. Recursive Array Sum.AssemblyInfoInputs.cache
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\01. Recursive Array Sum\obj\Debug\netcoreapp2.2\01. Recursive Array Sum.AssemblyInfo.cs
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\01. Recursive Array Sum\obj\Debug\netcoreapp2.2\01. Recursive Array Sum.dll
+D:\.Net Developement\Technology-Fundamentals-with-C-Sharp-SoftUni\Lab_Recursion\01. Recursive Array Sum\obj\Debug\netcoreapp2.2\01. Recursive Array Sum.pdb
