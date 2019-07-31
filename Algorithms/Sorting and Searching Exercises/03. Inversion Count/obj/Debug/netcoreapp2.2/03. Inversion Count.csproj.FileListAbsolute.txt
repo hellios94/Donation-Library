@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\01. Sorting\03. Inversion Count\bin\Debug\netcoreapp2.2\03. Inversion Count.deps.json
+C:\Users\Lenovo\source\repos\01. Sorting\03. Inversion Count\bin\Debug\netcoreapp2.2\03. Inversion Count.runtimeconfig.json
+C:\Users\Lenovo\source\repos\01. Sorting\03. Inversion Count\bin\Debug\netcoreapp2.2\03. Inversion Count.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\01. Sorting\03. Inversion Count\bin\Debug\netcoreapp2.2\03. Inversion Count.dll
+C:\Users\Lenovo\source\repos\01. Sorting\03. Inversion Count\bin\Debug\netcoreapp2.2\03. Inversion Count.pdb
+C:\Users\Lenovo\source\repos\01. Sorting\03. Inversion Count\obj\Debug\netcoreapp2.2\03. Inversion Count.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\01. Sorting\03. Inversion Count\obj\Debug\netcoreapp2.2\03. Inversion Count.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\01. Sorting\03. Inversion Count\obj\Debug\netcoreapp2.2\03. Inversion Count.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\01. Sorting\03. Inversion Count\obj\Debug\netcoreapp2.2\03. Inversion Count.dll
+C:\Users\Lenovo\source\repos\01. Sorting\03. Inversion Count\obj\Debug\netcoreapp2.2\03. Inversion Count.pdb
