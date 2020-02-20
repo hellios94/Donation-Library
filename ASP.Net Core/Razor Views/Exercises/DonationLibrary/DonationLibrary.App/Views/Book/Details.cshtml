@@ -1,0 +1,21 @@
+﻿@model DonationLibrary.App.ViewModels.BookDetailsViewModel
+@{
+    ViewData["Title"] = "Details";
+}
+
+    <div class="container-fluid row">
+        <div class="col-4">
+            <img src="@Model.Book.BookCoverImageUrl" height="500" width="300"  alt="@Model.Book.Title" />
+        </div>
+        <div class="col-8">
+            <h1>@Model.Book.Title</h1>
+            <p>by <span class="h5">@Model.Book.Author.Name</span></p>
+            <p>
+                @Model.Book.Description
+            </p>
+
+            <p><span class="font-weight-bold">Status</span> Borrowed</p>
+        </div>
+    </div>
+
+
