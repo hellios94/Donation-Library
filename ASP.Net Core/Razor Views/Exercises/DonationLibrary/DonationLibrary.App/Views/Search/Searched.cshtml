@@ -14,11 +14,3 @@
         <li><a asp-controller="Book" asp-action="Details" asp-route-id="@book.Id" class="searched">@book.Title</a> (@book.GetType().Name)</li>
     }
 </ul>
-
-@section Scripts
-{
-    <script>
-        let startIndex = $(".searched").text().indexOf("@(ViewData["searchTerm"].ToString().ToLower())");
-        $(".searched").text().sub(startIndex, startIndex + @(ViewData["searchTerm"].ToString().Length)).bold();
-    </script>
-}
