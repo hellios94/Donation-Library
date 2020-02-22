@@ -1,0 +1,34 @@
+﻿@model DonationLibrary.Web.BindingModels.DonateBookBindingModel
+@{
+    ViewData["Title"] = "Donate Book";
+}
+
+<h1 class="text-center">Donate Book</h1>
+
+<div class="container-fluid">
+    <h3 class="align-content-center">@ViewData["Name"]</h3>
+    <p><img src="@ViewData["BookCover"]" width="400" height="550" /></p>
+    <p class="align-content-center"><span class="font-weight-bold">@ViewData["Author"]</span></p>
+</div>
+
+<form asp-controller="Book" asp-action="Donate" class="container-fluid" method="post">
+    <div class="form-group row">
+        <label asp-for="RecipientName" class="col-form-label text-right col-1">Recipient Name</label>
+        <select asp-for="RecipientName" class="form-control col-11" id="RecipientName" autofocus>
+            <option value="Гери">Гери</option>
+            <option value="Роберта">Роберта</option>
+            <option value="Ангел">Ангел</option>
+        </select>
+    </div>
+    <div class="form-group row">
+        <label asp-for="Price" class="col-form-label text-right col-1">Price</label>
+        <input asp-for="Price" type="text" class="form-control col-11" id="Price" placeholder="Price" />
+    </div>
+    
+   
+    <div class="form-group row">
+        <button type="submit" asp-controller="Book" asp-action="Donate" asp-route-id="@Model.BookId" class="btn btn-success mr-1">Donate Book</button>
+        <button type="reset" asp-controller="Home" asp-action="Index" class="btn btn-primary">Cancel</button>
+    </div>
+</form>
+

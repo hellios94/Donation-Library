@@ -1,0 +1,36 @@
+﻿@model DonationLibrary.Web.BindingModels.AddBookBindingModel
+@{
+    ViewData["Title"] = "Add Book";
+}
+
+<h1>Add Book</h1>
+<form asp-controller="Book" asp-action="Add" class="container-fluid" method="post">
+    <div class="form-group row">
+        <label asp-for="Title" class="col-form-label text-right col-1">Title</label>
+        <input asp-for="Title" type="text" class="form-control col-11" id="Title" placeholder="Title" />
+    </div>
+    <div class="form-group row">
+        <label asp-for="Description" class="col-form-label  text-right col-1">Description</label>
+        <textarea asp-for="Description" rows="3" class="form-control col-11" id="Description" placeholder="Description"> </textarea>
+    </div>
+    <div class="form-group row">
+            <label asp-for="AuthorName" class="col-form-label text-right col-1">Author</label>
+            <input asp-for="AuthorName" type="text" class="form-control col-11" id="AuthorName" placeholder="Author" />
+        </div>
+    <div class="form-group row">
+        <label asp-for="DonationStatus" class="col-form-label text-right col-1">Donation Status</label>
+        <select asp-for="DonationStatus" class="form-control col-11" id="DonationStatus" autofocus placeholder="Donation Status">
+            <option value="For Donation">For Donation</option>
+            <option value="Not for Donation">Not For Donation</option>
+        </select>
+    </div>
+
+    <div class="form-group row">
+        <label asp-for="BookCoverImageUrl" class="col-form-label text-right col-1">Image URL</label>
+        <input asp-for="BookCoverImageUrl" type="text" class="form-control col-11" id="BookCoverImageUrl" placeholder="Image URL" />
+    </div>
+    <div class="form-group row">
+        <button type="submit" asp-controller="Book" asp-action="Add" class="btn btn-success mr-1">Add Book</button>
+        <button type="reset" asp-controller="Home" asp-action="Index" class="btn btn-primary">Cancel</button>
+    </div>
+</form>

@@ -1,0 +1,31 @@
+﻿@model DonationLibrary.Web.ViewModels.BookDetailsViewModel
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container-fluid row">
+    <div class="col-4">
+        <img src="@Model.Book.BookCoverImageUrl" height="500" width="300" alt="@Model.Book.Title" />
+    </div>
+    <div class="col-8">
+        <h1>@Model.Book.Title</h1>
+        <p>by <span class="h5">@Model.Book.Author.Name</span></p>
+        <p>
+            @Model.Book.Description
+        </p>
+
+        <p><span class="font-weight-bold">Donation Status: </span>@Model.Book.DonationStatus</p>
+
+        @{
+            if (Model.Book.DonationStatus == "For Donation")
+            {
+                <a asp-controller="Book" asp-action="Donate" asp-route-id="@Model.Book.Id" class="btn btn-success">Donate</a>
+            }
+            else if (Model.Book.DonationStatus != "Not for Donation")
+            {
+                <p>Thank you for your donnation. You donate @Model.Book.DonatedPrice leva to @Model.RecipientName</p>
+            }
+        }
+
+    </div>
+</div>

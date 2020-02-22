@@ -1,0 +1,13 @@
+﻿@model DonationLibrary.Web.ViewModels.AuthorDetailsViewModel
+@{
+    ViewData["Title"] = "Author Details";
+}
+
+<h1>@Model.AuthorName</h1>
+<ul>
+    @foreach (var book in Model.Books)
+    {
+        <li><a asp-controller="Book" asp-action="Details" asp-route-id="@book.Id">@book.Title</a> @book.DonationStatus</li>
+    }
+</ul>
+

@@ -1,0 +1,17 @@
+﻿@model DonationLibrary.Web.ViewModels.SearchViewModel
+@{
+    ViewData["Title"] = "Searched";
+}
+
+<h1>Search Result: "@ViewData["searchTerm"]"</h1>
+<ul>
+    @foreach (var author in Model.Authors)
+    {
+        <li><a asp-controller="Author" asp-action="Details" asp-route-id="@author.Id" class="searched">@author.Name</a> (@author.GetType().Name)</li>
+    }
+    @foreach (var book in Model.Books)
+    {
+        <li><a asp-controller="Book" asp-action="Details" asp-route-id="@book.Id" class="searched">@book.Title</a> (@book.GetType().Name)</li>
+    }
+</ul>
+

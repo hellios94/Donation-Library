@@ -1,0 +1,50 @@
+﻿@model DonationLibrary.Web.ViewModels.IndexViewModel
+@inject DonationLibrary.Web.Services.Interfaces.IRecipientService recipient
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div class="container">
+        <h2 class="text-center">Donation Library</h2>
+
+        <a asp-controller="Book" asp-action="Add" class="btn btn-success">Add new book</a>
+        <br />
+        <br />
+
+        <table class="table table-striped table-responsive-lg table-dark">
+            <thead>
+                <tr class="row">
+                    <th class="col-3 text-center">Cover Image</th>
+                    <th class="col-3 text-center">Title</th>
+                    <th class="col-3 text-center">Author</th>
+                    <th class="col-3 text-center">Donation</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Books)
+                {
+                    <tr class="row">
+                        <td class="col-3 text-center"><img  src="@item.BookCoverImageUrl" width="100" height="150" alt="@item.Description"/></td>
+                        <td class="col-3 text-center"><a asp-controller="Book" asp-action="Details" asp-route-id="@item.Id">@item.Title</a></td>
+                        <td class="col-3 text-center"><a asp-controller="Author" asp-action="Details" asp-route-id="@item.AuthorId">@item.Author.Name</a></td>
+                        <td class="col-3 text-center">
+                            @{
+                                if (item.DonationStatus == "For Donation")
+                                {
+                                    <a asp-controller="Book" asp-action="Donate" asp-route-id="@item.Id" class="btn btn-success">Donate</a>
+                                }
+                                else if (item.DonationStatus != "Not for Donation")
+                                {
+                                    <span>You donated this book to @recipient.GetRecipientName(item.Id)</span>
+                                }
+                                else
+                                {
+                                    <span>This book is not for Donation</span>
+                                }
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
