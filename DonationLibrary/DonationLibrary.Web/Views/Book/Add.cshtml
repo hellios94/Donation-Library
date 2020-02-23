@@ -3,8 +3,8 @@
     ViewData["Title"] = "Add Book";
 }
 
-<h1>Add Book</h1>
-<form asp-controller="Book" asp-action="Add" class="container-fluid" method="post">
+<h1 class="text-light">Add Book</h1>
+<form asp-controller="Book" asp-action="Add" class="container-fluid text-light" method="post">
     <div class="form-group row">
         <label asp-for="Title" class="col-form-label text-right col-1">Title</label>
         <input asp-for="Title" type="text" class="form-control col-11" id="Title" placeholder="Title" />

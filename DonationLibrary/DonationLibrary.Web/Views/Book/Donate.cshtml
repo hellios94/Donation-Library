@@ -3,15 +3,15 @@
     ViewData["Title"] = "Donate Book";
 }
 
-<h1 class="text-center">Donate Book</h1>
+<h1 class="text-center text-light">Donate Book</h1>
 
-<div class="container-fluid">
+<div class="container-fluid text-light">
     <h3 class="align-content-center">@ViewData["Name"]</h3>
     <p><img src="@ViewData["BookCover"]" width="400" height="550" /></p>
     <p class="align-content-center"><span class="font-weight-bold">@ViewData["Author"]</span></p>
 </div>
 
-<form asp-controller="Book" asp-action="Donate" class="container-fluid" method="post">
+<form asp-controller="Book" asp-action="Donate" class="container-fluid text-light" method="post">
     <div class="form-group row">
         <label asp-for="RecipientName" class="col-form-label text-right col-1">Recipient Name</label>
         <select asp-for="RecipientName" class="form-control col-11" id="RecipientName" autofocus>

@@ -48,7 +48,10 @@ namespace DonationLibrary.Web.Controllers
 
             var bookDetailsViewModel = new BookDetailsViewModel();
             bookDetailsViewModel.Book = bookService.GetBookDetails(id);
-            bookDetailsViewModel.RecipientName = recipientService.GetRecipientName(id);
+            if(bookDetailsViewModel.Book.DonationStatus != "Not for Donation")
+            {
+                bookDetailsViewModel.RecipientName = recipientService.GetRecipientName(id);
+            }
 
             return View(bookDetailsViewModel);
         }

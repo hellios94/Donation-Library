@@ -3,7 +3,7 @@
     ViewData["Title"] = "Searched";
 }
 
-<h1>Search Result: "@ViewData["searchTerm"]"</h1>
+<h1 class="text-light">Search Result: "@ViewData["searchTerm"]"</h1>
 <ul>
     @foreach (var author in Model.Authors)
     {
